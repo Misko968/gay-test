@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background: pink;  
+    text-align: center;
+}
+h1{     
+font-size: 150px; 
+text-align: center;
+} 
+button{ size: 150px;    
+height: 100px;
+width: 150px;  
+ 
+}  
+.ano-button { 
+    background-color: green;
+} 
+
+.nie-button { 
+    background-color: red; 
+
+}  
+.nie-button:hover { background: pink;} 
